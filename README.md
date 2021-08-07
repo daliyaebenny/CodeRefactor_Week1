@@ -26,5 +26,5 @@ Improve the exiting code but implementing new technology or modifying the existi
 
 
 ### Links   
-* [*GitHub repository*]()   
-* [*GitHub pages*]()
+* [*GitHub repository*](https://github.com/daliyaebenny/CodeRefactor_Week1.git)   
+* [*GitHub pages*](https://daliyaebenny.github.io/CodeRefactor_Week1/)
